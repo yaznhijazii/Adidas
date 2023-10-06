@@ -6,6 +6,9 @@ This project focuses on analyzing sales data from Adidas using Power BI. The ana
 
 <img src="FirstLook.png" alt="Adidas Sales Analysis" width="521" height="328">
 
+[Link to Presentation](https://prezi.com/view/l9zE569A7d6vmp185nj5/))
+
+
 ## Key Insights
 
 1. **Popular Product - Meen's Street Footwear:**
