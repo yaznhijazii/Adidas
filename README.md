@@ -4,7 +4,7 @@
 
 This project focuses on analyzing sales data from Adidas using Power BI. The analysis aims to derive insights into sales trends, popular products, and profitability. By visualizing the data effectively, we can make data-driven decisions to enhance sales strategies and optimize profitability.
 
-<img src="FirstLook.png" alt="Adidas Sales Analysis" width="400" height="200">
+<img src="FirstLook.png" alt="Adidas Sales Analysis" width="521" height="328">
 
 ## Key Insights
 
